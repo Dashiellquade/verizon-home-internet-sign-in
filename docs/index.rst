@@ -3,11 +3,11 @@ How to Sign In Verizon Home Internet?
 
 Verizon provides a variety of internet services to homes across the United States, and one of the primary methods of managing these services is through their online portal. The **Verizon Home Internet Sign In** allows users to access their accounts to manage their internet settings, check service details, and troubleshoot any issues they may face.
 
-.. image:: download.gif
+.. image:: signin.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://aclogportal.com/
 
 Verizon offers both **fiber-optic** and **5G home internet** services, and the process for signing in to your Verizon Home Internet account is quite simple. This guide will walk you through the process of signing in to your Verizon Home Internet account, discuss common issues, and provide solutions.
 
